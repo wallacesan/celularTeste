@@ -3,7 +3,7 @@ package com.cell.store.model;
 import org.junit.Assert;
 import org.junit.Test;
 
-class CelularTest {
+public class CelularTest {
     @Test
     public void criarTelefoneTeste (){
         Celular celular = new Celular();
